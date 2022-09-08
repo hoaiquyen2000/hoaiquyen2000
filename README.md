@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hoaiquyen2000
+- 👋 Hi, I’m Hoai Quyen - just call me Jos
 - 👀 I’m interested in coding to join into Data Analysts field
-- 🌱 I’m currently learning SQL and Python 
+- 🌱 I’m currently learning SQL, Python, and Tableau  
 - 💞️ I’m looking to collaborate on Data Analyst
 - 📫 How to reach me: just text me on there
 
